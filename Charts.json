@@ -1,6 +1,6 @@
 {
     "Charts":[
-        {"SongName":"QQ Notification","Artist":"Tencent","Diff":"N/A"},
-        {"SongName":"Unknown","Artist":"Unknown","Diff":"N/A"}
+        {"SongName":"QQ Notification","Artist":"Tencent","Diff":"N/A","FileName":"QQ.zip"},
+        {"SongName":"Unknown","Artist":"Unknown","Diff":"N/A","FileName":"QQ.zip"}
     ]
 }
