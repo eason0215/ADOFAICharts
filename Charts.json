@@ -1,6 +1,22 @@
 {
-    "Charts":[
-        {"SongName":"QQ Notification","Artist":"Tencent","Diff":"N/A","FileName":"QQ.zip"},
-        {"SongName":"Unknown","Artist":"Unknown","Diff":"N/A","FileName":"QQ.zip"}
-    ]
+  "Charts": [
+    {
+      "SongName": "QQ Notification",
+      "Artist": "Tencent",
+      "Diff": {"TUF":"N/A","Legacy":"N/A"},
+      "FileName": "QQ.zip"
+    },
+    {
+      "SongName": "C-TYPE",
+      "Artist": "Tanaka Hirokazu",
+      "Diff": {"TUF":"Censored","Legacy":"-2"},
+      "FileName": "CTYPE.zip"
+    },
+    {
+      "SongName": "Unknown",
+      "Artist": "Unknown",
+      "Diff": {"TUF":"N/A","Legacy":"N/A"},
+      "FileName": "Unknown"
+    }
+  ]
 }
